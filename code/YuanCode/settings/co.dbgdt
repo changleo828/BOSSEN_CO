@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>965</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>723</ColumnWidth1><ColumnWidth2>193</ColumnWidth2><ColumnWidth3>48</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>302</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow><col-names><item>Disassembly</item><item>_I0</item></col-names><col-widths><item>500</item><item>20</item></col-widths><DisasmHistory/><ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    <Register/></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22278-23390</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-21755-23400</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-259-23393</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>co</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-8115-8514</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><REG1>0</REG1><REG2>0</REG2><Group>14</Group><States>3</States><State0>ADC12CTL0</State0><State1>IE1</State1><State2>IFG1</State2></Session></Tab><Tab><Identity>TabID-29837-24715</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><REG1>0</REG1><REG2>0</REG2><Group>2</Group><States>1</States><State0>SR</State0></Session></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd3><Wnd4><Tabs><Tab><Identity>TabID-7781-9748</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ht1621.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\Program Files\IAR Systems\Embedded Workbench 6.4 Evaluation\430\inc\in430.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>8</YPos2><SelStart2>691</SelStart2><SelEnd2>691</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\Program Files\IAR Systems\Embedded Workbench 6.4 Evaluation\430\inc\intrinsics.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>159</YPos2><SelStart2>304</SelStart2><SelEnd2>304</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>d:\Program Files\IAR Systems\Embedded Workbench 6.4 Evaluation\430\inc\msp430x14x.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>489</YPos2><SelStart2>24941</SelStart2><SelEnd2>24941</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\DS1302.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>203</YPos2><SelStart2>6634</SelStart2><SelEnd2>6634</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\zb.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1295</YPos2><SelStart2>32031</SelStart2><SelEnd2>32031</SelEnd2></Tab><ActiveTab>5</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01376898><key>iaridepm.enu1</key></Toolbar-01376898></Sizes></Row0><Row1><Sizes><Toolbar-04cd7608><key>debuggergui.enu1</key></Toolbar-04cd7608></Sizes></Row1><Row2><Sizes><Toolbar-04cb5910><key>430fet1</key></Toolbar-04cb5910></Sizes></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>528</Bottom><Right>376</Right><x>-2</x><y>-2</y><xscreen>378</xscreen><yscreen>347</yscreen><sizeHorzCX>262500</sizeHorzCX><sizeHorzCY>420097</sizeHorzCY><sizeVertCX>262500</sizeVertCX><sizeVertCY>641646</sizeVertCY></Rect></Wnd1></Sizes></Row0><Row1><Sizes><Wnd3><Rect><Top>-2</Top><Left>374</Left><Bottom>528</Bottom><Right>1240</Right><x>374</x><y>-2</y><xscreen>283</xscreen><yscreen>239</yscreen><sizeHorzCX>196528</sizeHorzCX><sizeHorzCY>289346</sizeHorzCY><sizeVertCX>601389</sizeVertCX><sizeVertCY>641646</sizeVertCY></Rect></Wnd3></Sizes></Row1></Left><Right><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>528</Bottom><Right>281</Right><x>-2</x><y>-2</y><xscreen>283</xscreen><yscreen>239</yscreen><sizeHorzCX>196528</sizeHorzCX><sizeHorzCY>289346</sizeHorzCY><sizeVertCX>196528</sizeVertCX><sizeVertCY>641646</sizeVertCY></Rect></Wnd4></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>206</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>208</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>251816</sizeHorzCY><sizeVertCX>262500</sizeVertCX><sizeVertCY>420097</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
